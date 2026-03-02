@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "greasy-fork": {
+      "command": "node",
+      "args": ["./src/stdio.mjs"]
+    }
+  }
+}
