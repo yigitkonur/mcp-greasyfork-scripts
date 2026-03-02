@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "greasyfork": {
+      "command": "npx",
+      "args": ["-y", "mcp-greasyfork-scripts"]
+    }
+  }
+}
